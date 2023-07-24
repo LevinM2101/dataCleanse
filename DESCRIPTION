@@ -1,11 +1,11 @@
-Package: PackageLMSS23
+Package: dataCleanse
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Delete rows with Missings and convert Character columns to Numeric columns in a data frame
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Levin Moggert
+Maintainer: The package maintainer <levin@moggert.de>
+Description: Provides two functions, one lets you delete rows containing missings from a data frame, another lets you turn columns from character to numerics.
+License: none
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.2.3
