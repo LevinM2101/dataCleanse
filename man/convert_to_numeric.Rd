@@ -12,7 +12,7 @@ convert_to_numeric(df, column_name)
 \item{column_name}{The name of the column to convert.}
 }
 \value{
-A data frame with the specified column converted to numeric.
+A data frame with the specified column converted to numeric. Non-numeric values are converted to NA.
 }
 \description{
 Convert a character column to a numeric column

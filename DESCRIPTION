@@ -4,7 +4,7 @@ Title: Delete rows with Missings and convert Character columns to Numeric column
 Version: 0.1.0
 Author: Levin Moggert
 Maintainer: The package maintainer <levin@moggert.de>
-Description: Provides two functions, one lets you delete rows containing missings from a data frame, another lets you turn columns from character to numerics.
+Description: Provides two functions, one lets you delete rows containing missings from a data frame, another lets you turn columns from character to numerics and converts non-numeric values to NA.
 License: none
 Encoding: UTF-8
 LazyData: true

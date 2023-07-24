@@ -54,7 +54,7 @@ a)  Briefly describe in one sentences what your R package does and why
     
 ### Package description
 
-The package provides functions to quickly remove rows with missing values from a data frame and convert a character column to a numeric column. I chose this functionality because when I first started out with R and working with data frames I had some difficulties with both of these aspects and figuring it out ate up more of my time than necessary.
+The package provides functions to quickly remove rows with missing values from a data frame and convert a character column to a numeric column and convert non-numeric values to NA. I chose this functionality because when I first started out with R and working with data frames I had some difficulties with both of these aspects and figuring it out ate up more of my time than necessary.
     
 b)  To make installation easier, your R package should be in a public
     repository on GitHub. Provide the URL to the GitHub repository
